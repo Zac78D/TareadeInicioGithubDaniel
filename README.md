@@ -5,6 +5,7 @@
 
 <img src="imagenes/image2.png" width="200">
 <!-- Use html para reducir el tamaño de la imagen -->
+
 # COPILOT 
 Es un **asistente de inteligencia artifical** creado por Microsoft fue publicado originalmente como:
 - Bing chat
