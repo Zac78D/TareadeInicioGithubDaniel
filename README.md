@@ -3,3 +3,7 @@
 *prueba3*
 **prueba4**
 ![Captura de la web oficial de Microsoft](imagenes/microsoft.png)
+-6
+-7
+ -7
+ -0
