@@ -3,6 +3,13 @@
 *prueba3*
 **prueba4**
 ![Captura de la web oficial de Microsoft](imagenes/microsoft.png)
-#-1
- -2
-   -3
+
+#prueba3
+
+- Frutas
+  - Manzana
+  - Plátano
+  - Naranja
+- Verduras
+  - Tomate
+  - Lechuga
