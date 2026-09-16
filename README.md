@@ -2,8 +2,9 @@
 # GITHUB
 **GitHub** es una plataforma donde puedes guardar, organizar y compartir código y proyectos, GITHUB pertenece a *Microsoft* la cual la compro en 2018 por 7.500 millones de dólares.
 
-<img src="imagenes/image2.png" width="200">
 
+<img src="imagenes/image2.png" width="200">
+<!-- Use html para reducir el tamaño de la imagen -->
 # COPILOT 
 Es un **asistente de inteligencia artifical** creado por Microsoft fue publicado originalmente como:
 - Bing chat
