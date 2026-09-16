@@ -5,6 +5,6 @@
 # COPILOT 
 Es un **asistente de inteligencia artifical** creado por Microsoft fue publicado originalmente como:
 - Bing chat
- - Lanzado en 2023
+  - Lanzado en 2023
 - Copilot
- - el 15 de noviembre de 2023 fue renombrado a *Copilot* 
+  - el 15 de noviembre de 2023 fue renombrado a *Copilot* 
